@@ -1,0 +1,9 @@
+# tulis nama anda
+# lokasi
+# nomer
+# email
+
+adam ramadhan
+bekasi, jakarta, yogyakarta
+08999252530
+rama@networks.co.id
