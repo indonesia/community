@@ -1,0 +1,16 @@
+anda dapat mengirim permintaan pull jika perlu
+
+===========================================================================================
+Hi kami dari Gantibaju.com saat ini sedang mencari fulltime gaban developer yang akan bertanggung jawab dengan pengembangan sistem gantibaju.com. Gaban yang terpilih akan ditempatkan di Bandung dan bersama-sama menciptakan hal2 yang seru dan keren buat para gaban lainnya di gantibaju.com
+Skill yang dibutukan antara lain:
+
+    * Menguasai PHP programming (bahasa pemrograman lain menjadi nilai tambah)
+    * Menguasai Object Oriented *Memahami MVC akan menjadi nilai lebih
+    * Usia tidak menjadi masalah
+    * Komunikatif dan bisa bekerja dalam Tim & dibawah tekanan
+    * Memiliki inisiatif dan mau belajar
+    * Menguasai linux/unix environment (lebih disukai)
+    * Menguasai MySQL
+
+Kirimkan lamaran dan CV lengkap serta salary yang diharapkan via e-mail : hrd@gantibaju.com
+===========================================================================================
