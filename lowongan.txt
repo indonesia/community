@@ -1,47 +1,7 @@
-anda dapat mengirim permintaan pull jika perlu
+# Lowongan aktif
 
-===========================================================================================
-Hi kami dari Gantibaju.com saat ini sedang mencari fulltime gaban developer yang akan bertanggung jawab dengan pengembangan sistem gantibaju.com. Gaban yang terpilih akan ditempatkan di Bandung dan bersama-sama menciptakan hal2 yang seru dan keren buat para gaban lainnya di gantibaju.com
-Skill yang dibutukan antara lain:
-
-    * Menguasai PHP programming (bahasa pemrograman lain menjadi nilai tambah)
-    * Menguasai Object Oriented *Memahami MVC akan menjadi nilai lebih
-    * Usia tidak menjadi masalah
-    * Komunikatif dan bisa bekerja dalam Tim & dibawah tekanan
-    * Memiliki inisiatif dan mau belajar
-    * Menguasai linux/unix environment (lebih disukai)
-    * Menguasai MySQL
-
-Kirimkan lamaran dan CV lengkap serta salary yang diharapkan via e-mail : hrd@gantibaju.com
-===========================================================================================
-
-===========================================================================================
-Gan, kantor ane lagi cari programmer dan designer full time.
-Nama PT nya :
-
-PT Bintang Terang Solusindo
+tidak ada
 
 
-Spesifikasi kerjanya adalah :
-
-Web Programmer :
-
-1. Menguasai PHP Framework (CodeIgniter) or minimal OOP Based + Ajax(Jquery).
-2. Menguasai DBMS dalam MySql maupun SQL Server.
-3. Bersedia bekerja dalam tekanan dan deadline yang ketat.
-4. Disiplin dan berkomunikasi dengan baik.
-
-Designer :
-
-1. Menguasai Adobe Photshop atau Adobe Illustrator.
-2. Menguasai teknik slicing dan convert ke XHTML dan CSS.
-3. Bersedia bekerja dalam tekanan dan deadline yang ketat.
-4. Disiplin dan berkomunikasi dengan baik.
-
-Sistem kerja fulltime ya. Kantor di Komplek AM Sangaji Megah No 9M.
-
-Salary : Negotiable
-
-Email ke echo@web-custom.com dengan
-subject : Programmer Wanted utk Programmer dan Designer Wanted utk designer.
-===========================================================================================
+### tambah lowongan
+bisa fork sendiri, atau pm
