@@ -28,3 +28,20 @@ Bandung
 087722489xxx
 ujititikhamdani@gmail.com
 
+Eki
+Testing Git
+
+Rendytio Arifian Puspito
+Garuda Maya Group
+
+
+Rahmat M. Samik-Ibrahim
+Lokasi Private
+0123456789
+ada@deh.com
+
+Adam Ramadhan 2
+testing
+
+>>>>>>> 6ee4b3c70c3515b39a5032addb3a09f0079a7785
+
