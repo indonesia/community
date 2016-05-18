@@ -8,14 +8,15 @@ Private Repo untuk komunitas ( tujuan mengajar / edukasi )
 
 ### Pendaftaran
 
-seandainya nomernya private bisa, hanya saja
-kalo ada acara atau event akan saya kabarkan lewat
-email. atau bisa juga di pm aja nomernya.
+Seandainya nomernya private bisa, 
+hanya saja kalo ada acara atau event akan saya kabarkan lewat email. 
+Atau bisa juga di pm aja nomernya.
 
 Nama
 HP
 Lokasi
 
-pm langsung dengan ketentuan diatas ke
+PM langsung dengan ketentuan diatas ke
 www.github.com/adamramadhan
 Thanks!
+
