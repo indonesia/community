@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 rms46@rmsbase Thu May 19 21:37:46 WIB 2016
+=======
+rms46@edge135 Thu May 19 07:56:14 WIB 2016
+>>>>>>> 9471f86bbd9cdc376468abf3227f86aa88c28d91
