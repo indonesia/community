@@ -35,11 +35,12 @@ Rendytio Arifian Puspito
 Garuda Maya Group
 
 
-# STAMP RMS46@RMSBASE Wed May 18 19:57:53 WIB 2016
+# STAMP  Wed May 18 19:57:53 WIB 2016
+# UPDATE Mon 23 Nov 2020 09:07:05 WIB
 Rahmat M. Samik-Ibrahim
 Pamulang RT003/014, Tangsel 15417
-0812 106 XXXX
-RahmatM.Samik-Ibrahim@vlsm.org
+https://rahmat.vlsm.org/
+https://rahmatm.samik-ibrahim.vlsm.org/
 
 Adam Ramadhan 2
 testing
