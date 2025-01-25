@@ -3,7 +3,7 @@
 
 Selamat datang di komunitas GitHub Indonesia!
 
-### Private Repository
+## Private Repository
 Private Repo untuk komunitas (tujuan untuk mengajar/edukasi).
 
 ### Pendaftaran
@@ -13,7 +13,7 @@ Nama:
 HP:
 Lokasi:
 ```
-PM langsung dengan ketentuan diatas ke [adamramadhan](www.github.com/adamramadhan)
+PM langsung dengan ketentuan diatas ke [adamramadhan](www.github.com/adamramadhan) <br />
 Thanks!
 
 ### SandBox
