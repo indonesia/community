@@ -1,7 +1,8 @@
-# tulis nama anda
-# lokasi
-# nomer
-# email
+# Tulis
+## nama
+## lokasi
+## nomer
+## email
 
 adam ramadhan
 bekasi, jakarta, yogyakarta
