@@ -1,52 +1,53 @@
-# Tulis
-## nama
-## lokasi
-## nomer
-## email
+=== Tulis ===
+## Nama
+## Lokasi
+## Nomer telepon
+## Email
 
-adam ramadhan
+1. adam ramadhan
 bekasi, jakarta, yogyakarta
 08999252530
 http://www.google.com/recaptcha/mailhide/d?k=01I-9fb7jh8VDO1YXXmEe3TA==&c=_65LijWIPYM-2B5ZKK0c_HuZm0hiSIU4enGE6vCCH_s=
 
-isman firmansyah
+1. isman firmansyah
 bandung, majalengka, jakarta
 085724980970
 http://www.google.com/recaptcha/mailhide/d?k=01I-9fb7jh8VDO1YXXmEe3TA==&c=F81XnmKH9TOuo-8eLuS5PWgzY6L8VXNaDwhPdJwcXy4=
 
-Prabowo Murti Saputro
+1. Prabowo Murti Saputro
 lokasi private
 kontak private
 prabowo.murti@gmail.com
 
-Syahroni Wahyu Iriananda
+1. Syahroni Wahyu Iriananda
 Lokasi Private
 085649555925
 roniwahyu@gmail.com
 
-Uji Hamdani
+1. Uji Hamdani
 Bandung
 087722489xxx
 ujititikhamdani@gmail.com
 
-Eki
+1. Eki
 Testing Git
 
-Rendytio Arifian Puspito
+1. Rendytio Arifian Puspito
 Garuda Maya Group
 
 
 # STAMP  Wed May 18 19:57:53 WIB 2016
 # UPDATE Mon 23 Nov 2020 09:07:05 WIB
-Rahmat M. Samik-Ibrahim
+
+1. Rahmat M. Samik-Ibrahim
 Pamulang RT003/014, Tangsel 15417
 https://rahmat.vlsm.org/
 https://rahmatm.samik-ibrahim.vlsm.org/
 
-Adam Ramadhan 2
+1. Adam Ramadhan 2
 testing
 
-Fakhri Hidayatulloh
+1. Fakhri Hidayatulloh
 Komplek Palem , tangerang
 087871151189
 hahay@yahoo.com
