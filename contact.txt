@@ -5,55 +5,55 @@
 ## Email
 
 1. adam ramadhan
-bekasi, jakarta, yogyakarta
-08999252530
-http://www.google.com/recaptcha/mailhide/d?k=01I-9fb7jh8VDO1YXXmEe3TA==&c=_65LijWIPYM-2B5ZKK0c_HuZm0hiSIU4enGE6vCCH_s=
+  bekasi, jakarta, yogyakarta
+  08999252530
+  http://www.google.com/recaptcha/mailhide/d?k=01I-9fb7jh8VDO1YXXmEe3TA==&c=_65LijWIPYM-2B5ZKK0c_HuZm0hiSIU4enGE6vCCH_s=
 
-1. isman firmansyah
-bandung, majalengka, jakarta
-085724980970
-http://www.google.com/recaptcha/mailhide/d?k=01I-9fb7jh8VDO1YXXmEe3TA==&c=F81XnmKH9TOuo-8eLuS5PWgzY6L8VXNaDwhPdJwcXy4=
+2. isman firmansyah
+  bandung, majalengka, jakarta
+  085724980970
+  http://www.google.com/recaptcha/mailhide/d?k=01I-9fb7jh8VDO1YXXmEe3TA==&c=F81XnmKH9TOuo-8eLuS5PWgzY6L8VXNaDwhPdJwcXy4=
 
-1. Prabowo Murti Saputro
-lokasi private
-kontak private
-prabowo.murti@gmail.com
+2. Prabowo Murti Saputro
+  lokasi private
+  kontak private
+  prabowo.murti@gmail.com
 
-1. Syahroni Wahyu Iriananda
-Lokasi Private
-085649555925
-roniwahyu@gmail.com
+4. Syahroni Wahyu Iriananda
+  Lokasi Private
+  085649555925
+  roniwahyu@gmail.com
 
-1. Uji Hamdani
-Bandung
-087722489xxx
-ujititikhamdani@gmail.com
+5. Uji Hamdani
+  Bandung
+  087722489xxx
+  ujititikhamdani@gmail.com
 
-1. Eki
-Testing Git
+6. Eki
+  Testing Git
 
-1. Rendytio Arifian Puspito
-Garuda Maya Group
+7. Rendytio Arifian Puspito
+  Garuda Maya Group
 
 
 # STAMP  Wed May 18 19:57:53 WIB 2016
 # UPDATE Mon 23 Nov 2020 09:07:05 WIB
 
-1. Rahmat M. Samik-Ibrahim
-Pamulang RT003/014, Tangsel 15417
-https://rahmat.vlsm.org/
-https://rahmatm.samik-ibrahim.vlsm.org/
+8. Rahmat M. Samik-Ibrahim
+  Pamulang RT003/014, Tangsel 15417
+  https://rahmat.vlsm.org/
+  https://rahmatm.samik-ibrahim.vlsm.org/
 
-1. Adam Ramadhan 2
-testing
+9. Adam Ramadhan 2
+  testing
 
-1. Fakhri Hidayatulloh
-Komplek Palem , tangerang
-087871151189
-hahay@yahoo.com
+10. Fakhri Hidayatulloh
+  Komplek Palem , tangerang
+  087871151189
+  hahay@yahoo.com
 
-1. Muhammad Dhiyaul Atha
-Aceh, Indonesia
-089505366193
-mdhyaulatha@gmail.com
+11. Muhammad Dhiyaul Atha
+  Aceh, Indonesia
+  https://mdhiyaulatha.me
+  mdhyaulatha@gmail.com
 
